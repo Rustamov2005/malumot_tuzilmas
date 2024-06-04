@@ -44,3 +44,4 @@ print(queue.items)
 #Listning uzunligini ko'rish
 queue.size()
 print(f"Listning uzunligi: {queue.size()}")
+queue.dequeue()
